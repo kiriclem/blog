@@ -1,0 +1,2 @@
+# blog
+kickstart hw1
